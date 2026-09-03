@@ -1,0 +1,24 @@
+id: IABE7480B
+initial_creation_type: ebook
+source_metadata:
+  id: MIN-TC-07
+  title: ༄༅། །རྩ་ཨོ་རྒྱན་སྨིན་གྲོལ་གླིང་གི་འདུས་སྡེའི་བཅའ་ཁྲིམས་ཀྱི་ཡི་གེ་བླང་དོར་གསལ་བར་བྱེད་པའི་ཉི་མ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  author: མཛད་པ་པོ། སྨིན་གླིང་གཏེར་ཆེན་འགྱུར་རྡོ་རྗེ།
+  authors: &id001
+  - མཛད་པ་པོ། སྨིན་གླིང་གཏེར་ཆེན་འགྱུར་རྡོ་རྗེ།
+  sku: MIN-TC-07
+  cover: MIN-TC-07.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །རྩ་ཨོ་རྒྱན་སྨིན་གྲོལ་གླིང་གི་འདུས་སྡེའི་བཅའ་ཁྲིམས་ཀྱི་ཡི་གེ་བླང་དོར་གསལ་བར་བྱེད་པའི་ཉི་མ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors: *id001
+  sku: MIN-TC-07
+  cover: MIN-TC-07.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
